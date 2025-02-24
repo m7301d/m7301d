@@ -1,11 +1,7 @@
-<<img src="https://static.wikia.nocookie.net/rijon/images/c/cb/349-Feebas.gif/revision/latest?cb=20231210071003"
-     style="float: left; width: 20%;">
-
-<img src="https://i.gifer.com/5GpG.gif"
-     style="float: right; width: 14%;">
-
-<div style="clear: both;"></div>
-
+<img align="left" src="https://static.wikia.nocookie.net/rijon/images/c/cb/349-Feebas.gif/revision/latest?cb=20231210071003" width="20%" style="display:inline;"><img align="right" src="https://i.gifer.com/5GpG.gif" width="14%" style="display:inline;">
+<br>
+<br>
+<br>
 <p align="center">
     <h1 align="center">m7301d</h1>
 </p>
